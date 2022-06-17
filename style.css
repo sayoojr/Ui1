@@ -1,0 +1,86 @@
+.home {
+    background-image: url('images/bg.jpg');
+    background-size: cover;
+}
+
+header {
+    margin: 1% 6%;
+}
+
+header img {
+    height: 70px;
+}
+
+header li {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.main-content {
+    text-align: center;
+    padding: 7% 0;
+}
+
+.icons {
+    font-size: 45px;
+    padding: 0;
+}
+
+.icons i {
+    padding: 0 10px;
+}
+
+.signup {
+    background-image: url('images/signup.jpg');
+    background-size: cover;
+}
+
+.signup form {
+    margin: 4% 38%;
+}
+
+.signup form input {
+    height: 32px;
+}
+
+.signin {
+    background-image: url('images/signin.jpg');
+    background-size: cover;
+}
+
+.signin form {
+    margin: 9% 39%;
+}
+
+.signin form label {
+    color: wheat;
+}
+
+.district-card {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.district-card a {
+    text-decoration: none;
+}
+
+
+.district-card img {
+    height: 200px;
+}
+
+.district-card .card {
+    margin: 2% 1%;
+    margin-left: 2%;
+} 
+
+.district-wise h1,h2 {
+    text-align: center;
+		margin: 2% 0;
+}
+
+.district-wise p {
+	margin: 3% 5%;
+}
